@@ -14,7 +14,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35453
+            "stars": 35456
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-20T13:29:00Z",
             "owner": "itchyny",
             "repo": "gojq",
-            "stars": 3794
+            "stars": 3795
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-14T10:16:53Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82528
+            "stars": 82544
           }
         },
         {
@@ -120,10 +120,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T17:52:54Z",
+            "last_commit": "2026-08-16T07:16:11Z",
             "owner": "wader",
             "repo": "fq",
-            "stars": 10556
+            "stars": 10557
           }
         },
         {
@@ -449,7 +449,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35453
+            "stars": 35456
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2024-03-05T22:44:40Z",
             "owner": "bfrg",
             "repo": "vim-jqplay",
-            "stars": 123
+            "stars": 124
           }
         },
         {
@@ -614,7 +614,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35453
+            "stars": 35456
           }
         },
         {
@@ -628,7 +628,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35453
+            "stars": 35456
           }
         },
         {
@@ -642,7 +642,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35453
+            "stars": 35456
           }
         }
       ],
@@ -912,7 +912,7 @@
             "last_commit": "2026-07-20T13:29:00Z",
             "owner": "itchyny",
             "repo": "gojq",
-            "stars": 3794
+            "stars": 3795
           }
         },
         {
@@ -1098,7 +1098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:41:35.279Z",
+    "last_updated": "2026-08-16T08:43:28.198Z",
     "original_repository": "jqlang/awesome-jq",
     "original_repository_sha": "d161ac918cdd84a9e7534d6b94618f438bc1a8dd",
     "enhanced_repository": "enhansome/enhansome-jq",
