@@ -14,7 +14,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35463
+            "stars": 35458
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-17T03:11:26Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82551
+            "stars": 82557
           }
         },
         {
@@ -120,10 +120,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T06:44:09Z",
+            "last_commit": "2026-08-17T20:24:45Z",
             "owner": "wader",
             "repo": "fq",
-            "stars": 10558
+            "stars": 10559
           }
         },
         {
@@ -208,6 +208,20 @@
             "owner": "jzelinskie",
             "repo": "faq",
             "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jqfmt",
+          "description": "A code beautifier for jq.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-03T16:04:02Z",
+            "owner": "noperator",
+            "repo": "jqfmt",
+            "stars": 409
           }
         },
         {
@@ -449,7 +463,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35463
+            "stars": 35458
           }
         },
         {
@@ -530,7 +544,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T04:52:41Z",
+            "last_commit": "2026-08-18T00:51:54Z",
             "owner": "davidnussio",
             "repo": "vscode-jq-playground",
             "stars": 54
@@ -614,7 +628,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35463
+            "stars": 35458
           }
         },
         {
@@ -628,7 +642,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35463
+            "stars": 35458
           }
         },
         {
@@ -642,7 +656,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35463
+            "stars": 35458
           }
         }
       ],
@@ -1098,9 +1112,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:56:52.088Z",
+    "last_updated": "2026-08-18T08:50:46.282Z",
     "original_repository": "jqlang/awesome-jq",
-    "original_repository_sha": "d161ac918cdd84a9e7534d6b94618f438bc1a8dd",
+    "original_repository_sha": "8d3d9b2e317236d37ff787f30d902367c6e4a43e",
     "enhanced_repository": "enhansome/enhansome-jq",
     "enhanced_repository_description": null,
     "title": "Awesome jq with stars"
