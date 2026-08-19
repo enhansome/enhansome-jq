@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5101141,
             "language": "C",
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35458
+            "stars": 35462
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180954037,
             "language": "Go",
             "last_commit": "2026-07-20T13:29:00Z",
             "owner": "itchyny",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 537955930,
             "language": "jq",
             "last_commit": "2026-08-02T07:53:18Z",
             "owner": "wader",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293107202,
             "language": "OCaml",
             "last_commit": "2026-07-29T21:35:52Z",
             "owner": "davesnx",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 410231992,
             "language": "Rust",
             "last_commit": "2026-07-10T15:53:19Z",
             "owner": "MiSawa",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153703167,
             "language": "JavaScript",
             "last_commit": "2026-03-17T00:38:45Z",
             "owner": "mwh",
@@ -92,575 +98,620 @@
     },
     {
       "description": "jq-based JSON visualizers and explorers.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "– An fzf",
+              "description": "hack that turns it into an interactive jq explorer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13807606,
+                "language": "Go",
+                "last_commit": "2026-08-17T03:11:26Z",
+                "owner": "junegunn",
+                "repo": "fzf",
+                "stars": 82577
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fq",
+              "description": "jq for binary formats",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336895436,
+                "language": "Go",
+                "last_commit": "2026-08-17T20:24:45Z",
+                "owner": "wader",
+                "repo": "fq",
+                "stars": 10565
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jnv",
+              "description": "interactive JSON filter using jq with navigation and autocompletion.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 773832743,
+                "language": "Rust",
+                "last_commit": "2026-07-27T04:25:32Z",
+                "owner": "ynqa",
+                "repo": "jnv",
+                "stars": 6093
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yq",
+              "description": "(and ) – jq wrapper for YAML and XML documents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78888191,
+                "language": "Python",
+                "last_commit": "2026-07-11T17:52:40Z",
+                "owner": "kislyuk",
+                "repo": "yq",
+                "stars": 2966
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jqp",
+              "description": "a TUI playground for exploring jq.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 529775188,
+                "language": "Go",
+                "last_commit": "2026-02-06T11:05:25Z",
+                "owner": "noahgorstein",
+                "repo": "jqp",
+                "stars": 2830
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jiq",
+              "description": "A visual command-line interactive JSON explorer with jq filters.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 75506949,
+                "language": "Go",
+                "last_commit": "2023-01-09T17:59:27Z",
+                "owner": "fiatjaf",
+                "repo": "jiq",
+                "stars": 930
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "play",
+              "description": "A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 695915883,
+                "language": "Go",
+                "last_commit": "2025-03-28T19:04:26Z",
+                "owner": "paololazzari",
+                "repo": "play",
+                "stars": 583
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "faq",
+              "description": "CLI program that processes BSON, Bencode, JSON, TOML, XML, YAML using libjq.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125000256,
+                "language": "Go",
+                "last_commit": "2024-10-02T15:27:05Z",
+                "owner": "jzelinskie",
+                "repo": "faq",
+                "stars": 464
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jqfmt",
+              "description": "A code beautifier for jq.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 543286046,
+                "language": "Go",
+                "last_commit": "2026-02-03T16:04:02Z",
+                "owner": "noperator",
+                "repo": "jqfmt",
+                "stars": 409
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jq-zsh-plugin",
+              "description": "zsh line editor for constructing jq queries interactively.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237034979,
+                "language": "Shell",
+                "last_commit": "2025-07-23T11:37:20Z",
+                "owner": "reegnz",
+                "repo": "jq-zsh-plugin",
+                "stars": 362
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jqq",
+              "description": "A visual command-line interactive jq explorer written in Ruby.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267735390,
+                "language": "Ruby",
+                "last_commit": "2020-05-29T19:21:44Z",
+                "owner": "jcsalterego",
+                "repo": "jqq",
+                "stars": 319
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ijq",
+              "description": "jq REPL with automatic variable assignment and global statements support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121825784,
+                "language": "Go",
+                "last_commit": "2022-09-21T22:19:56Z",
+                "owner": "fiatjaf",
+                "repo": "ijq",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jqsh",
+              "description": "An interactive wrapper written in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21339926,
+                "language": "Go",
+                "last_commit": "2014-07-16T00:27:07Z",
+                "owner": "bmatsuo",
+                "repo": "jqsh",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yiq",
+              "description": "Like , but using instead, so it supports YAML documents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 359684794,
+                "language": "Go",
+                "last_commit": "2021-04-22T05:38:14Z",
+                "owner": "zoetrope",
+                "repo": "yiq",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jqunit",
+              "description": "A test framework for JQ, written in Rust, on top of libjq.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 716713333,
+                "language": "Rust",
+                "last_commit": "2024-03-04T22:26:21Z",
+                "owner": "mrwilson",
+                "repo": "jqunit",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jq-fish-plugin",
+              "description": "Inspired by jq-zsh-plugin, interactively build jq expressions in fish shell.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 469333292,
+                "language": "Shell",
+                "last_commit": "2024-04-11T10:45:07Z",
+                "owner": "jihchi",
+                "repo": "jq-fish-plugin",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Command-line"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jq play",
+              "description": "(github) – A playground for jq with sharing capabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17960964,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T20:07:29Z",
+                "owner": "jqlang",
+                "repo": "playground",
+                "stars": 843
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jqterm",
+              "description": "(github) – Online playground - \"jq as a service\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111248066,
+                "language": "JavaScript",
+                "last_commit": "2025-12-30T10:08:50Z",
+                "owner": "remy",
+                "repo": "jqterm",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jqaas",
+              "description": "jq as a service, an open HTTP endpoint that executes jq queries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100210329,
+                "language": "PHP",
+                "last_commit": "2024-05-27T11:07:10Z",
+                "owner": "captn3m0",
+                "repo": "jqaas",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jq-finder (github",
+              "description": ") – A multipanel, Finder-like, JSON explorer with jq filters instead of paths, uses .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121413925,
+                "language": "Elm",
+                "last_commit": "2018-04-27T04:56:38Z",
+                "owner": "fiatjaf",
+                "repo": "jq-finder",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jqp",
+              "description": "A free serverless proxy for filtering JSON and CSV data using jq.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 492332301,
+                "language": "JavaScript",
+                "last_commit": "2023-07-19T23:02:43Z",
+                "owner": "sighrobot",
+                "repo": "jqp",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jiq-web (github",
+              "description": ") – , but in a web page, uses .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121518590,
+                "language": "HTML",
+                "last_commit": "2018-04-27T04:56:40Z",
+                "owner": "fiatjaf",
+                "repo": "jiq-web",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jqview",
+              "description": "A jq JSON explorer with a minimalist native GUI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269756346,
+                "language": "Go",
+                "last_commit": "2020-06-30T00:24:54Z",
+                "owner": "fiatjaf",
+                "repo": "jqview",
+                "stars": 369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jqi",
+              "description": "(github) – The almighty jq processor wrapped in a graphical UI, for Mac OSX.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94864287,
+                "language": "HTML",
+                "last_commit": "2018-05-01T07:35:35Z",
+                "owner": "nire0510",
+                "repo": "jqi",
+                "stars": 46
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Desktop"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bat syntax highlighting",
+              "description": "Syntax file to use bat to syntax highlight jq files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5101141,
+                "language": "C",
+                "last_commit": "2026-08-12T19:02:39Z",
+                "owner": "jqlang",
+                "repo": "jq",
+                "stars": 35462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jq-mode",
+              "description": "A jq mode for Emacs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41152594,
+                "language": "Emacs Lisp",
+                "last_commit": "2025-09-29T11:27:51Z",
+                "owner": "ljos",
+                "repo": "jq-mode",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jq-lsp",
+              "description": "jq language server. Works with VSCode, neovim and Emacs. Has syntax and scope checking, goto defintion, completion and hover documentation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399733414,
+                "language": "jq",
+                "last_commit": "2026-08-03T14:20:51Z",
+                "owner": "wader",
+                "repo": "jq-lsp",
+                "stars": 132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vim-jqplay",
+              "description": "Interactive jq playground inside Vim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 217536719,
+                "language": "Vim Script",
+                "last_commit": "2024-03-05T22:44:40Z",
+                "owner": "bfrg",
+                "repo": "vim-jqplay",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bro/q",
+              "description": "A Chrome Extension for JSON formatting and jq filtering.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 127277290,
+                "language": "TypeScript",
+                "last_commit": "2020-05-25T13:27:27Z",
+                "owner": "zalando-incubator",
+                "repo": "bro-q",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "virtual-json-viewer",
+              "description": "A JSON Chrome/Firefox Extension with virtual DOM, full-text search and jq filtering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363349260,
+                "language": "TypeScript",
+                "last_commit": "2026-07-12T20:56:04Z",
+                "owner": "paolosimone",
+                "repo": "virtual-json-viewer",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vscode-jq-playground",
+              "description": "A jq playground notebook extension for VS Code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107561465,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T20:00:53Z",
+                "owner": "davidnussio",
+                "repo": "vscode-jq-playground",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jq-playground.nvim",
+              "description": "Interactive jq playground inside Nvim, written in Lua.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 897522744,
+                "language": "Lua",
+                "last_commit": "2026-02-13T14:15:50Z",
+                "owner": "yochem",
+                "repo": "jq-playground.nvim",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vscode-jq",
+              "description": "VSCode jq extension that uses jq-lsp. Has syntax highlight, snippets and everything jq-lsp provides.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 401072590,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T09:12:04Z",
+                "owner": "wader",
+                "repo": "vscode-jq",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vscode-jq",
+              "description": "A jq extension for VS Code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80793610,
+                "language": "TypeScript",
+                "last_commit": "2023-01-11T00:53:20Z",
+                "owner": "andricDu",
+                "repo": "vscode-jq",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "atom-jq",
+              "description": "Interactive jq playground inside the Atom editor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61025281,
+                "language": "JavaScript",
+                "last_commit": "2023-01-24T10:45:06Z",
+                "owner": "sanack",
+                "repo": "atom-jq",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Extensions"
+        }
+      ],
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "– An fzf",
-          "description": "hack that turns it into an interactive jq explorer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T03:11:26Z",
-            "owner": "junegunn",
-            "repo": "fzf",
-            "stars": 82557
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fq",
-          "description": "jq for binary formats",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T20:24:45Z",
-            "owner": "wader",
-            "repo": "fq",
-            "stars": 10559
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jnv",
-          "description": "interactive JSON filter using jq with navigation and autocompletion.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-27T04:25:32Z",
-            "owner": "ynqa",
-            "repo": "jnv",
-            "stars": 6092
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yq",
-          "description": "(and ) – jq wrapper for YAML and XML documents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-11T17:52:40Z",
-            "owner": "kislyuk",
-            "repo": "yq",
-            "stars": 2966
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jqp",
-          "description": "a TUI playground for exploring jq.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-06T11:05:25Z",
-            "owner": "noahgorstein",
-            "repo": "jqp",
-            "stars": 2830
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jiq",
-          "description": "A visual command-line interactive JSON explorer with jq filters.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-01-09T17:59:27Z",
-            "owner": "fiatjaf",
-            "repo": "jiq",
-            "stars": 930
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "play",
-          "description": "A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-03-28T19:04:26Z",
-            "owner": "paololazzari",
-            "repo": "play",
-            "stars": 583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "faq",
-          "description": "CLI program that processes BSON, Bencode, JSON, TOML, XML, YAML using libjq.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-10-02T15:27:05Z",
-            "owner": "jzelinskie",
-            "repo": "faq",
-            "stars": 464
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jqfmt",
-          "description": "A code beautifier for jq.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-03T16:04:02Z",
-            "owner": "noperator",
-            "repo": "jqfmt",
-            "stars": 409
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jq-zsh-plugin",
-          "description": "zsh line editor for constructing jq queries interactively.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-07-23T11:37:20Z",
-            "owner": "reegnz",
-            "repo": "jq-zsh-plugin",
-            "stars": 362
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jqq",
-          "description": "A visual command-line interactive jq explorer written in Ruby.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2020-05-29T19:21:44Z",
-            "owner": "jcsalterego",
-            "repo": "jqq",
-            "stars": 319
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ijq",
-          "description": "jq REPL with automatic variable assignment and global statements support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-09-21T22:19:56Z",
-            "owner": "fiatjaf",
-            "repo": "ijq",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jqsh",
-          "description": "An interactive wrapper written in Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2014-07-16T00:27:07Z",
-            "owner": "bmatsuo",
-            "repo": "jqsh",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yiq",
-          "description": "Like , but using instead, so it supports YAML documents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-04-22T05:38:14Z",
-            "owner": "zoetrope",
-            "repo": "yiq",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jqunit",
-          "description": "A test framework for JQ, written in Rust, on top of libjq.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-03-04T22:26:21Z",
-            "owner": "mrwilson",
-            "repo": "jqunit",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jq-fish-plugin",
-          "description": "Inspired by jq-zsh-plugin, interactively build jq expressions in fish shell.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2024-04-11T10:45:07Z",
-            "owner": "jihchi",
-            "repo": "jq-fish-plugin",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Command-line"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jq play",
-          "description": "(github) – A playground for jq with sharing capabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T20:07:29Z",
-            "owner": "jqlang",
-            "repo": "playground",
-            "stars": 843
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jqterm",
-          "description": "(github) – Online playground - \"jq as a service\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-12-30T10:08:50Z",
-            "owner": "remy",
-            "repo": "jqterm",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jqaas",
-          "description": "jq as a service, an open HTTP endpoint that executes jq queries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-05-27T11:07:10Z",
-            "owner": "captn3m0",
-            "repo": "jqaas",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jq-finder (github",
-          "description": ") – A multipanel, Finder-like, JSON explorer with jq filters instead of paths, uses .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elm",
-            "last_commit": "2018-04-27T04:56:38Z",
-            "owner": "fiatjaf",
-            "repo": "jq-finder",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jqp",
-          "description": "A free serverless proxy for filtering JSON and CSV data using jq.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-07-19T23:02:43Z",
-            "owner": "sighrobot",
-            "repo": "jqp",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jiq-web (github",
-          "description": ") – , but in a web page, uses .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2018-04-27T04:56:40Z",
-            "owner": "fiatjaf",
-            "repo": "jiq-web",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Web"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jqview",
-          "description": "A jq JSON explorer with a minimalist native GUI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2020-06-30T00:24:54Z",
-            "owner": "fiatjaf",
-            "repo": "jqview",
-            "stars": 369
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jqi",
-          "description": "(github) – The almighty jq processor wrapped in a graphical UI, for Mac OSX.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2018-05-01T07:35:35Z",
-            "owner": "nire0510",
-            "repo": "jqi",
-            "stars": 46
-          }
-        }
-      ],
-      "title": "Desktop"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "bat syntax highlighting",
-          "description": "Syntax file to use bat to syntax highlight jq files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-12T19:02:39Z",
-            "owner": "jqlang",
-            "repo": "jq",
-            "stars": 35458
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jq-mode",
-          "description": "A jq mode for Emacs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Emacs Lisp",
-            "last_commit": "2025-09-29T11:27:51Z",
-            "owner": "ljos",
-            "repo": "jq-mode",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jq-lsp",
-          "description": "jq language server. Works with VSCode, neovim and Emacs. Has syntax and scope checking, goto defintion, completion and hover documentation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "jq",
-            "last_commit": "2026-08-03T14:20:51Z",
-            "owner": "wader",
-            "repo": "jq-lsp",
-            "stars": 132
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vim-jqplay",
-          "description": "Interactive jq playground inside Vim.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2024-03-05T22:44:40Z",
-            "owner": "bfrg",
-            "repo": "vim-jqplay",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bro/q",
-          "description": "A Chrome Extension for JSON formatting and jq filtering.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2020-05-25T13:27:27Z",
-            "owner": "zalando-incubator",
-            "repo": "bro-q",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "virtual-json-viewer",
-          "description": "A JSON Chrome/Firefox Extension with virtual DOM, full-text search and jq filtering.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-12T20:56:04Z",
-            "owner": "paolosimone",
-            "repo": "virtual-json-viewer",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vscode-jq-playground",
-          "description": "A jq playground notebook extension for VS Code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T00:51:54Z",
-            "owner": "davidnussio",
-            "repo": "vscode-jq-playground",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jq-playground.nvim",
-          "description": "Interactive jq playground inside Nvim, written in Lua.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-02-13T14:15:50Z",
-            "owner": "yochem",
-            "repo": "jq-playground.nvim",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vscode-jq",
-          "description": "VSCode jq extension that uses jq-lsp. Has syntax highlight, snippets and everything jq-lsp provides.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T09:12:04Z",
-            "owner": "wader",
-            "repo": "vscode-jq",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vscode-jq",
-          "description": "A jq extension for VS Code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-11T00:53:20Z",
-            "owner": "andricDu",
-            "repo": "vscode-jq",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "atom-jq",
-          "description": "Interactive jq playground inside the Atom editor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-24T10:45:06Z",
-            "owner": "sanack",
-            "repo": "atom-jq",
-            "stars": 23
-          }
-        }
-      ],
-      "title": "Extensions"
-    },
-    {
       "description": "Readings about jq.",
-      "items": [],
-      "title": "Documentation"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "FAQ",
-          "description": "jq FAQ.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-12T19:02:39Z",
-            "owner": "jqlang",
-            "repo": "jq",
-            "stars": 35458
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cookbook",
-          "description": "jq cookbook.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-12T19:02:39Z",
-            "owner": "jqlang",
-            "repo": "jq",
-            "stars": 35458
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Advanced Topics",
-          "description": "jq advanced topics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-12T19:02:39Z",
-            "owner": "jqlang",
-            "repo": "jq",
-            "stars": 35458
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FAQ",
+              "description": "jq FAQ.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5101141,
+                "language": "C",
+                "last_commit": "2026-08-12T19:02:39Z",
+                "owner": "jqlang",
+                "repo": "jq",
+                "stars": 35462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cookbook",
+              "description": "jq cookbook.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5101141,
+                "language": "C",
+                "last_commit": "2026-08-12T19:02:39Z",
+                "owner": "jqlang",
+                "repo": "jq",
+                "stars": 35462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Advanced Topics",
+              "description": "jq advanced topics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5101141,
+                "language": "C",
+                "last_commit": "2026-08-12T19:02:39Z",
+                "owner": "jqlang",
+                "repo": "jq",
+                "stars": 35462
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Core documentation"
         }
       ],
-      "title": "Core documentation"
+      "title": "Documentation"
     },
     {
       "description": "Apps using jq in the wild.",
@@ -672,11 +723,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215404927,
             "language": "Python",
             "last_commit": "2026-06-18T17:00:49Z",
             "owner": "kellyjonbrazil",
             "repo": "jc",
-            "stars": 8664
+            "stars": 8666
           }
         },
         {
@@ -686,6 +738,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 689595340,
             "language": "C",
             "last_commit": "2024-12-09T15:55:37Z",
             "owner": "Florents-Tselai",
@@ -700,6 +753,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 761895661,
             "language": "C",
             "last_commit": "2024-07-08T07:18:36Z",
             "owner": "Florents-Tselai",
@@ -714,6 +768,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95397487,
             "language": "Shell",
             "last_commit": "2021-06-27T23:09:35Z",
             "owner": "bashup",
@@ -728,6 +783,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63670252,
             "language": "Shell",
             "last_commit": "2020-07-31T17:39:59Z",
             "owner": "fadado",
@@ -742,6 +798,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28539363,
             "language": "JSONiq",
             "last_commit": "2014-12-27T16:47:26Z",
             "owner": "makenowjust",
@@ -756,6 +813,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189321671,
             "language": "Python",
             "last_commit": "2020-04-09T05:43:43Z",
             "owner": "simonw",
@@ -770,6 +828,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119581036,
             "language": "Shell",
             "last_commit": "2019-05-12T07:36:52Z",
             "owner": "fadado",
@@ -784,6 +843,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87308792,
             "language": "jq",
             "last_commit": "2021-06-18T08:51:13Z",
             "owner": "hosuaby",
@@ -798,6 +858,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 187868050,
             "language": "Shell",
             "last_commit": "2019-08-07T00:04:05Z",
             "owner": "annacrombie",
@@ -818,6 +879,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58069805,
             "language": "JSONiq",
             "last_commit": "2020-07-11T07:41:02Z",
             "owner": "fadado",
@@ -832,6 +894,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 28595466,
             "language": "Shell",
             "last_commit": "2021-06-01T11:48:55Z",
             "owner": "jqnpm",
@@ -846,6 +909,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185353993,
             "language": "JSONiq",
             "last_commit": "2020-04-07T06:51:12Z",
             "owner": "nichtich",
@@ -860,6 +924,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 860479940,
             "language": "jq",
             "last_commit": "2025-06-16T09:30:18Z",
             "owner": "wader",
@@ -874,6 +939,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 680721633,
             "language": "JavaScript",
             "last_commit": "2025-02-26T19:30:11Z",
             "owner": "nverno",
@@ -888,6 +954,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 29943507,
             "language": "jq",
             "last_commit": "2021-06-01T11:49:46Z",
             "owner": "jqnpm",
@@ -902,6 +969,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1054162199,
             "language": "jq",
             "last_commit": "2025-09-11T15:46:01Z",
             "owner": "wader",
@@ -922,6 +990,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180954037,
             "language": "Go",
             "last_commit": "2026-07-20T13:29:00Z",
             "owner": "itchyny",
@@ -936,6 +1005,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10775034,
             "language": "Python",
             "last_commit": "2026-07-10T17:53:18Z",
             "owner": "mwilliamson",
@@ -950,6 +1020,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90417462,
             "language": "JavaScript",
             "last_commit": "2025-03-19T22:19:15Z",
             "owner": "fiatjaf",
@@ -964,6 +1035,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60918486,
             "language": "TypeScript",
             "last_commit": "2026-07-27T08:24:17Z",
             "owner": "sanack",
@@ -978,6 +1050,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15699339,
             "language": "Python",
             "last_commit": "2024-07-20T06:27:59Z",
             "owner": "doloopwhile",
@@ -992,6 +1065,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31562506,
             "language": "R",
             "last_commit": "2024-12-14T23:26:31Z",
             "owner": "ropensci",
@@ -1006,6 +1080,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115957207,
             "language": "Java",
             "last_commit": "2024-04-30T01:17:39Z",
             "owner": "arakelian",
@@ -1020,6 +1095,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26898782,
             "language": "PHP",
             "last_commit": "2022-05-26T21:00:12Z",
             "owner": "kjdev",
@@ -1034,6 +1110,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169496957,
             "language": "Python",
             "last_commit": "2024-08-16T20:37:25Z",
             "owner": "moreati",
@@ -1048,6 +1125,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18083174,
             "language": "Go",
             "last_commit": "2017-05-31T02:43:37Z",
             "owner": "threatgrid",
@@ -1062,6 +1140,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222965212,
             "language": "Go",
             "last_commit": "2020-11-26T17:16:29Z",
             "owner": "flant",
@@ -1076,6 +1155,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344138628,
             "language": "Perl",
             "last_commit": "2022-10-28T01:28:45Z",
             "owner": "dxma",
@@ -1090,6 +1170,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1143522318,
             "language": "Ruby",
             "last_commit": "2026-02-24T02:00:20Z",
             "owner": "persona-id",
@@ -1099,20 +1180,10 @@
         }
       ],
       "title": "External libraries"
-    },
-    {
-      "description": "Please contribute! Open an issue or a PR and we’ll discuss it or merge it. If you’re opening a PR, please ensure all formatting is ok (if you’re in a hurry just open an issue).",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:50:46.282Z",
+    "last_updated": "2026-08-19T08:51:30.950Z",
     "original_repository": "jqlang/awesome-jq",
     "original_repository_sha": "8d3d9b2e317236d37ff787f30d902367c6e4a43e",
     "enhanced_repository": "enhansome/enhansome-jq",
