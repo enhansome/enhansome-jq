@@ -15,7 +15,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35479
+            "stars": 35468
           }
         },
         {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-21T04:28:14Z",
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82604
+                "stars": 82605
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-20T18:39:14Z",
                 "owner": "wader",
                 "repo": "fq",
-                "stars": 10570
+                "stars": 10571
               }
             },
             {
@@ -494,7 +494,7 @@
                 "last_commit": "2026-08-12T19:02:39Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35479
+                "stars": 35468
               }
             },
             {
@@ -506,7 +506,7 @@
                 "archived": false,
                 "id": 41152594,
                 "language": "Emacs Lisp",
-                "last_commit": "2025-09-29T11:27:51Z",
+                "last_commit": "2026-08-21T10:06:22Z",
                 "owner": "ljos",
                 "repo": "jq-mode",
                 "stars": 133
@@ -581,7 +581,7 @@
                 "archived": false,
                 "id": 107561465,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T10:52:44Z",
+                "last_commit": "2026-08-21T22:31:44Z",
                 "owner": "davidnussio",
                 "repo": "vscode-jq-playground",
                 "stars": 54
@@ -672,7 +672,7 @@
                 "last_commit": "2026-08-12T19:02:39Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35479
+                "stars": 35468
               }
             },
             {
@@ -687,7 +687,7 @@
                 "last_commit": "2026-08-12T19:02:39Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35479
+                "stars": 35468
               }
             },
             {
@@ -702,7 +702,7 @@
                 "last_commit": "2026-08-12T19:02:39Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35479
+                "stars": 35468
               }
             }
           ],
@@ -1183,7 +1183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:54:22.240Z",
+    "last_updated": "2026-08-22T08:43:54.038Z",
     "original_repository": "jqlang/awesome-jq",
     "original_repository_id": 121669629,
     "original_repository_sha": "8d3d9b2e317236d37ff787f30d902367c6e4a43e",

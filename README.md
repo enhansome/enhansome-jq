@@ -28,7 +28,7 @@ A curated list of awesome things built with the JSON processor and
 
 *Standalone implementations of the jq language.*
 
-* [jq](https://jqlang.github.io/jq/) ([github](https://github.com/jqlang/jq) ⭐ 35,479 | 🐛 472 | 🌐 C | 📅 2026-08-12) – The original jq command-line JSON processor.
+* [jq](https://jqlang.github.io/jq/) ([github](https://github.com/jqlang/jq) ⭐ 35,468 | 🐛 472 | 🌐 C | 📅 2026-08-12) – The original jq command-line JSON processor.
 * [gojq](https://github.com/itchyny/gojq) ⭐ 3,795 | 🐛 18 | 🌐 Go | 📅 2026-07-20 – A jq implementation in Go.
 * [jqjq](https://github.com/wader/jqjq) ⭐ 771 | 🐛 6 | 🌐 jq | 📅 2026-08-02 – jq implementation of jq
 * [query-json (`q`)](https://github.com/davesnx/query-json) ⭐ 636 | 🐛 1 | 🌐 OCaml | 📅 2026-07-29 – query-json is a faster, simpler and more portable implementation of the jq language in Reason.
@@ -42,8 +42,8 @@ A curated list of awesome things built with the JSON processor and
 
 ### Command-line
 
-* `echo '' | fzf --print-query --preview "cat *.json | jq {q}"` – An [fzf](https://github.com/junegunn/fzf) ⭐ 82,604 | 🐛 329 | 🌐 Go | 📅 2026-08-21 hack that turns it into an interactive jq explorer.
-* [fq](https://github.com/wader/fq) ⭐ 10,570 | 🐛 57 | 🌐 Go | 📅 2026-08-20 – jq for binary formats
+* `echo '' | fzf --print-query --preview "cat *.json | jq {q}"` – An [fzf](https://github.com/junegunn/fzf) ⭐ 82,605 | 🐛 330 | 🌐 Go | 📅 2026-08-21 hack that turns it into an interactive jq explorer.
+* [fq](https://github.com/wader/fq) ⭐ 10,571 | 🐛 58 | 🌐 Go | 📅 2026-08-20 – jq for binary formats
 * [jnv](https://github.com/ynqa/jnv) ⭐ 6,093 | 🐛 30 | 🌐 Rust | 📅 2026-08-20 – interactive JSON filter using jq with navigation and autocompletion.
 * [yq](https://github.com/kislyuk/yq) ⭐ 2,969 | 🐛 23 | 🌐 Python | 📅 2026-07-11 (and `xq`) – jq wrapper for YAML and XML documents.
 * [jqp](https://github.com/noahgorstein/jqp) ⭐ 2,829 | 🐛 24 | 🌐 Go | 📅 2026-02-06 – a TUI playground for exploring jq.
@@ -78,13 +78,13 @@ A curated list of awesome things built with the JSON processor and
 
 ### Extensions
 
-* [bat syntax highlighting](https://github.com/jqlang/jq/wiki/bat-language-syntax) ⭐ 35,479 | 🐛 472 | 🌐 C | 📅 2026-08-12 – Syntax file to use bat to syntax highlight jq files
-* [jq-mode](https://github.com/ljos/jq-mode) ⭐ 133 | 🐛 11 | 🌐 Emacs Lisp | 📅 2025-09-29 – A jq mode for Emacs.
+* [bat syntax highlighting](https://github.com/jqlang/jq/wiki/bat-language-syntax) ⭐ 35,468 | 🐛 472 | 🌐 C | 📅 2026-08-12 – Syntax file to use bat to syntax highlight jq files
+* [jq-mode](https://github.com/ljos/jq-mode) ⭐ 133 | 🐛 9 | 🌐 Emacs Lisp | 📅 2026-08-21 – A jq mode for Emacs.
 * [jq-lsp](https://github.com/wader/jq-lsp) ⭐ 132 | 🐛 7 | 🌐 jq | 📅 2026-08-03 – jq language server. Works with VSCode, neovim and Emacs. Has syntax and scope checking, goto defintion, completion and hover documentation.
 * [vim-jqplay](https://github.com/bfrg/vim-jqplay) ⭐ 124 | 🐛 2 | 🌐 Vim Script | 📅 2024-03-05 – Interactive jq playground inside Vim.
 * [bro/q](https://github.com/zalando-incubator/bro-q) ⚠️ Archived – A Chrome Extension for JSON formatting and jq filtering.
 * [virtual-json-viewer](https://github.com/paolosimone/virtual-json-viewer) ⭐ 83 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-12 – A JSON Chrome/Firefox Extension with virtual DOM, full-text search and jq filtering.
-* [vscode-jq-playground](https://github.com/davidnussio/vscode-jq-playground) ⭐ 54 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-20 – A jq playground notebook extension for VS Code.
+* [vscode-jq-playground](https://github.com/davidnussio/vscode-jq-playground) ⭐ 54 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-21 – A jq playground notebook extension for VS Code.
 * [jq-playground.nvim](https://github.com/yochem/jq-playground.nvim) ⭐ 46 | 🐛 3 | 🌐 Lua | 📅 2026-02-13 – Interactive jq playground inside Nvim, written in Lua.
 * [vscode-jq](https://github.com/wader/vscode-jq) ⭐ 32 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-13 – VSCode jq extension that uses [jq-lsp](https://github.com/wader/jq-lsp) ⭐ 132 | 🐛 7 | 🌐 jq | 📅 2026-08-03. Has syntax highlight, snippets and everything jq-lsp provides.
 * [vscode-jq](https://github.com/andricDu/vscode-jq) ⭐ 24 | 🐛 10 | 🌐 TypeScript | 📅 2023-01-11 – A jq extension for VS Code.
@@ -98,9 +98,9 @@ A curated list of awesome things built with the JSON processor and
 
 ### Core documentation
 
-* [FAQ](https://github.com/jqlang/jq/wiki/FAQ) ⭐ 35,479 | 🐛 472 | 🌐 C | 📅 2026-08-12 – jq FAQ.
-* [Cookbook](https://github.com/jqlang/jq/wiki/Cookbook) ⭐ 35,479 | 🐛 472 | 🌐 C | 📅 2026-08-12 – jq cookbook.
-* [Advanced Topics](https://github.com/jqlang/jq/wiki/Advanced-Topics) ⭐ 35,479 | 🐛 472 | 🌐 C | 📅 2026-08-12 – jq advanced topics.
+* [FAQ](https://github.com/jqlang/jq/wiki/FAQ) ⭐ 35,468 | 🐛 472 | 🌐 C | 📅 2026-08-12 – jq FAQ.
+* [Cookbook](https://github.com/jqlang/jq/wiki/Cookbook) ⭐ 35,468 | 🐛 472 | 🌐 C | 📅 2026-08-12 – jq cookbook.
+* [Advanced Topics](https://github.com/jqlang/jq/wiki/Advanced-Topics) ⭐ 35,468 | 🐛 472 | 🌐 C | 📅 2026-08-12 – jq advanced topics.
 * [Manual](https://jqlang.github.io/jq/manual/) – jq manual (development version).
 
 ### Good small specific tutorials
@@ -116,7 +116,7 @@ A curated list of awesome things built with the JSON processor and
 ### Code examples
 
 * [jq at Rosetta Code](http://rosettacode.org/wiki/Category:Jq) – Dozens of algorithms written in jq .
-* [Builtins](https://github.com/jqlang/jq/blob/master/src/builtin.jq) ⭐ 35,479 | 🐛 472 | 🌐 C | 📅 2026-08-12 – jq builtins coded in *jq* itself, not C.
+* [Builtins](https://github.com/jqlang/jq/blob/master/src/builtin.jq) ⭐ 35,468 | 🐛 472 | 🌐 C | 📅 2026-08-12 – jq builtins coded in *jq* itself, not C.
 * [Collection of jq recipes](https://remysharp.com/drafts/jq-recipes)
 * [Collection of interactive jq examples](https://ishan.page/blog/2023-11-06-jq-by-example/) – Dozens of interactive jq examples (and explanations) in the browser.
 * [Collection of jq oneliners](https://nntrn.github.io/jq-recipes/)
@@ -165,7 +165,7 @@ A curated list of awesome things built with the JSON processor and
 * [node-jq](https://github.com/sanack/node-jq) ⭐ 305 | 🐛 28 | 🌐 TypeScript | 📅 2026-07-27 – A jq wrapper for Node.js.
 * [pyjq](https://github.com/doloopwhile/pyjq) ⭐ 202 | 🐛 19 | 🌐 Python | 📅 2024-07-20 – A jq wrapper for Python.
 * [jqr](https://github.com/ropensci/jqr) ⭐ 144 | 🐛 16 | 🌐 R | 📅 2024-12-14 – R interface to jq.
-* [java-jq](https://github.com/arakelian/java-jq) ⭐ 92 | 🐛 8 | 🌐 Java | 📅 2024-04-30 – A jq wrapper for Java ([jackson-jq](https://github.com/eiiches/jackson-jq) ⭐ 310 | 🐛 42 | 🌐 Java | 📅 2026-08-20 is a Jackson extension).
+* [java-jq](https://github.com/arakelian/java-jq) ⭐ 92 | 🐛 8 | 🌐 Java | 📅 2024-04-30 – A jq wrapper for Java ([jackson-jq](https://github.com/eiiches/jackson-jq) ⭐ 310 | 🐛 42 | 🌐 Java | 📅 2026-08-21 is a Jackson extension).
 * [php-ext-jq](https://github.com/kjdev/php-ext-jq) ⭐ 47 | 🐛 2 | 🌐 PHP | 📅 2022-05-26 – PHP extension for jq.
 * [Ansible jq](https://github.com/moreati/jq-filter) ⭐ 24 | 🐛 4 | 🌐 Python | 📅 2024-08-16 – A jq filter for [Ansible](https://ansible.com) configuration manager.
 * [jq-go](https://github.com/threatgrid/jq-go) ⭐ 22 | 🐛 4 | 🌐 Go | 📅 2017-05-31 – Golang cgo bindings for **libjq** ([jqpipe-go](https://github.com/threatgrid/jqpipe-go) ⭐ 12 | 🐛 5 | 🌐 Go | 📅 2019-11-01 is a CLI wrapper from the same people).
@@ -190,4 +190,4 @@ just open an issue).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
