@@ -42,7 +42,7 @@ A curated list of awesome things built with the JSON processor and
 
 ### Command-line
 
-* `echo '' | fzf --print-query --preview "cat *.json | jq {q}"` – An [fzf](https://github.com/junegunn/fzf) ⭐ 82,629 | 🐛 327 | 🌐 Go | 📅 2026-08-24 hack that turns it into an interactive jq explorer.
+* `echo '' | fzf --print-query --preview "cat *.json | jq {q}"` – An [fzf](https://github.com/junegunn/fzf) ⭐ 82,633 | 🐛 327 | 🌐 Go | 📅 2026-08-24 hack that turns it into an interactive jq explorer.
 * [fq](https://github.com/wader/fq) ⭐ 10,572 | 🐛 58 | 🌐 Go | 📅 2026-08-23 – jq for binary formats
 * [jnv](https://github.com/ynqa/jnv) ⭐ 6,093 | 🐛 30 | 🌐 Rust | 📅 2026-08-20 – interactive JSON filter using jq with navigation and autocompletion.
 * [yq](https://github.com/kislyuk/yq) ⭐ 2,971 | 🐛 23 | 🌐 Python | 📅 2026-07-11 (and `xq`) – jq wrapper for YAML and XML documents.
@@ -115,8 +115,8 @@ A curated list of awesome things built with the JSON processor and
 
 ### Code examples
 
-* [jq at Rosetta Code](http://rosettacode.org/wiki/Category:Jq) – Dozens of algorithms written in jq .
 * [Builtins](https://github.com/jqlang/jq/blob/master/src/builtin.jq) ⭐ 35,478 | 🐛 467 | 🌐 C | 📅 2026-08-23 – jq builtins coded in *jq* itself, not C.
+* [jq at Rosetta Code](http://rosettacode.org/wiki/Category:Jq) – Dozens of algorithms written in jq .
 * [Collection of jq recipes](https://remysharp.com/drafts/jq-recipes)
 * [Collection of interactive jq examples](https://ishan.page/blog/2023-11-06-jq-by-example/) – Dozens of interactive jq examples (and explanations) in the browser.
 * [Collection of jq oneliners](https://nntrn.github.io/jq-recipes/)
