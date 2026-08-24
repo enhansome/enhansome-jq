@@ -12,10 +12,10 @@
             "archived": false,
             "id": 5101141,
             "language": "C",
-            "last_commit": "2026-08-12T19:02:39Z",
+            "last_commit": "2026-08-23T15:06:16Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35472
+            "stars": 35478
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 180954037,
             "language": "Go",
-            "last_commit": "2026-07-20T13:29:00Z",
+            "last_commit": "2026-08-23T14:26:57Z",
             "owner": "itchyny",
             "repo": "gojq",
             "stars": 3796
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-02T07:53:18Z",
             "owner": "wader",
             "repo": "jqjq",
-            "stars": 771
+            "stars": 772
           }
         },
         {
@@ -110,10 +110,10 @@
                 "archived": false,
                 "id": 13807606,
                 "language": "Go",
-                "last_commit": "2026-08-21T04:28:14Z",
+                "last_commit": "2026-08-24T01:02:41Z",
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82614
+                "stars": 82629
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-23T08:38:10Z",
                 "owner": "wader",
                 "repo": "fq",
-                "stars": 10571
+                "stars": 10572
               }
             },
             {
@@ -491,10 +491,10 @@
                 "archived": false,
                 "id": 5101141,
                 "language": "C",
-                "last_commit": "2026-08-12T19:02:39Z",
+                "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35472
+                "stars": 35478
               }
             },
             {
@@ -669,10 +669,10 @@
                 "archived": false,
                 "id": 5101141,
                 "language": "C",
-                "last_commit": "2026-08-12T19:02:39Z",
+                "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35472
+                "stars": 35478
               }
             },
             {
@@ -684,10 +684,10 @@
                 "archived": false,
                 "id": 5101141,
                 "language": "C",
-                "last_commit": "2026-08-12T19:02:39Z",
+                "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35472
+                "stars": 35478
               }
             },
             {
@@ -699,10 +699,10 @@
                 "archived": false,
                 "id": 5101141,
                 "language": "C",
-                "last_commit": "2026-08-12T19:02:39Z",
+                "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35472
+                "stars": 35478
               }
             }
           ],
@@ -725,7 +725,7 @@
             "archived": false,
             "id": 215404927,
             "language": "Python",
-            "last_commit": "2026-06-18T17:00:49Z",
+            "last_commit": "2026-08-24T02:27:20Z",
             "owner": "kellyjonbrazil",
             "repo": "jc",
             "stars": 8666
@@ -992,7 +992,7 @@
             "archived": false,
             "id": 180954037,
             "language": "Go",
-            "last_commit": "2026-07-20T13:29:00Z",
+            "last_commit": "2026-08-23T14:26:57Z",
             "owner": "itchyny",
             "repo": "gojq",
             "stars": 3796
@@ -1183,7 +1183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:44:55.301Z",
+    "last_updated": "2026-08-24T09:00:05.107Z",
     "original_repository": "jqlang/awesome-jq",
     "original_repository_id": 121669629,
     "original_repository_sha": "8d3d9b2e317236d37ff787f30d902367c6e4a43e",
