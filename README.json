@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-24T01:02:41Z",
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82633
+                "stars": 82640
               }
             },
             {
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 336895436,
                 "language": "Go",
-                "last_commit": "2026-08-23T08:38:10Z",
+                "last_commit": "2026-08-24T20:56:38Z",
                 "owner": "wader",
                 "repo": "fq",
                 "stars": 10572
@@ -769,7 +769,7 @@
             "archived": false,
             "id": 215404927,
             "language": "Python",
-            "last_commit": "2026-08-24T02:27:20Z",
+            "last_commit": "2026-08-25T04:36:59Z",
             "owner": "kellyjonbrazil",
             "repo": "jc",
             "stars": 8666
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:23.891Z",
+    "last_updated": "2026-08-25T06:08:33.645Z",
     "original_repository": "jqlang/awesome-jq",
     "original_repository_id": 121669629,
     "original_repository_sha": "8d3d9b2e317236d37ff787f30d902367c6e4a43e",
