@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-24T01:02:41Z",
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82640
+                "stars": 82643
               }
             },
             {
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:33.645Z",
+    "last_updated": "2026-08-25T08:55:24.103Z",
     "original_repository": "jqlang/awesome-jq",
     "original_repository_id": 121669629,
     "original_repository_sha": "8d3d9b2e317236d37ff787f30d902367c6e4a43e",
