@@ -15,8 +15,9 @@
             "last_commit": "2026-08-23T15:06:16Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35495
-          }
+            "stars": 35503
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "itchyny",
             "repo": "gojq",
             "stars": 3796
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "wader",
             "repo": "jqjq",
             "stars": 772
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "davesnx",
             "repo": "query-json",
             "stars": 636
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-07-10T15:53:19Z",
             "owner": "MiSawa",
             "repo": "xq",
-            "stars": 401
-          }
+            "stars": 402
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mwh",
             "repo": "jqjs",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         }
       ],
       "title": "Implementations"
@@ -113,8 +119,9 @@
                 "last_commit": "2026-08-26T00:07:09Z",
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82681
-              }
+                "stars": 82700
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -125,11 +132,12 @@
                 "archived": false,
                 "id": 336895436,
                 "language": "Go",
-                "last_commit": "2026-08-27T15:21:29Z",
+                "last_commit": "2026-08-28T20:00:39Z",
                 "owner": "wader",
                 "repo": "fq",
-                "stars": 10581
-              }
+                "stars": 10582
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -143,8 +151,9 @@
                 "last_commit": "2026-08-20T11:04:28Z",
                 "owner": "ynqa",
                 "repo": "jnv",
-                "stars": 6095
-              }
+                "stars": 6094
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "kislyuk",
                 "repo": "yq",
                 "stars": 2972
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "noahgorstein",
                 "repo": "jqp",
                 "stars": 2830
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "fiatjaf",
                 "repo": "jiq",
                 "stars": 930
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -203,8 +215,9 @@
                 "last_commit": "2025-03-28T19:04:26Z",
                 "owner": "paololazzari",
                 "repo": "play",
-                "stars": 583
-              }
+                "stars": 584
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "jzelinskie",
                 "repo": "faq",
                 "stars": 464
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -233,8 +247,9 @@
                 "last_commit": "2026-02-03T16:04:02Z",
                 "owner": "noperator",
                 "repo": "jqfmt",
-                "stars": 409
-              }
+                "stars": 410
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -249,7 +264,8 @@
                 "owner": "reegnz",
                 "repo": "jq-zsh-plugin",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -264,7 +280,8 @@
                 "owner": "jcsalterego",
                 "repo": "jqq",
                 "stars": 319
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -279,7 +296,8 @@
                 "owner": "fiatjaf",
                 "repo": "ijq",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -294,7 +312,8 @@
                 "owner": "bmatsuo",
                 "repo": "jqsh",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -309,7 +328,8 @@
                 "owner": "zoetrope",
                 "repo": "yiq",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -324,7 +344,8 @@
                 "owner": "mrwilson",
                 "repo": "jqunit",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -339,7 +360,8 @@
                 "owner": "jihchi",
                 "repo": "jq-fish-plugin",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             }
           ],
           "description": null,
@@ -360,8 +382,9 @@
                 "last_commit": "2026-08-12T20:07:29Z",
                 "owner": "jqlang",
                 "repo": "playground",
-                "stars": 846
-              }
+                "stars": 847
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -376,7 +399,8 @@
                 "owner": "remy",
                 "repo": "jqterm",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -391,7 +415,8 @@
                 "owner": "captn3m0",
                 "repo": "jqaas",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -406,7 +431,8 @@
                 "owner": "fiatjaf",
                 "repo": "jq-finder",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -421,7 +447,8 @@
                 "owner": "sighrobot",
                 "repo": "jqp",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -436,7 +463,8 @@
                 "owner": "fiatjaf",
                 "repo": "jiq-web",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             }
           ],
           "description": null,
@@ -458,7 +486,8 @@
                 "owner": "fiatjaf",
                 "repo": "jqview",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -473,7 +502,8 @@
                 "owner": "nire0510",
                 "repo": "jqi",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             }
           ],
           "description": null,
@@ -494,8 +524,9 @@
                 "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35495
-              }
+                "stars": 35503
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -510,7 +541,8 @@
                 "owner": "ljos",
                 "repo": "jq-mode",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -525,7 +557,8 @@
                 "owner": "wader",
                 "repo": "jq-lsp",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -540,7 +573,8 @@
                 "owner": "bfrg",
                 "repo": "vim-jqplay",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -555,7 +589,8 @@
                 "owner": "zalando-incubator",
                 "repo": "bro-q",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -570,7 +605,8 @@
                 "owner": "paolosimone",
                 "repo": "virtual-json-viewer",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -581,11 +617,12 @@
                 "archived": false,
                 "id": 107561465,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:39:10Z",
+                "last_commit": "2026-08-27T23:44:54Z",
                 "owner": "davidnussio",
                 "repo": "vscode-jq-playground",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -600,7 +637,8 @@
                 "owner": "yochem",
                 "repo": "jq-playground.nvim",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -615,7 +653,8 @@
                 "owner": "wader",
                 "repo": "vscode-jq",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -630,7 +669,8 @@
                 "owner": "andricDu",
                 "repo": "vscode-jq",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -645,7 +685,8 @@
                 "owner": "sanack",
                 "repo": "atom-jq",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             }
           ],
           "description": null,
@@ -672,8 +713,9 @@
                 "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35495
-              }
+                "stars": 35503
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -687,8 +729,9 @@
                 "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35495
-              }
+                "stars": 35503
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             },
             {
               "node_type": "item",
@@ -702,8 +745,9 @@
                 "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35495
-              }
+                "stars": 35503
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             }
           ],
           "description": null,
@@ -724,8 +768,9 @@
                 "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35495
-              }
+                "stars": 35503
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             }
           ],
           "description": null,
@@ -747,7 +792,8 @@
                 "owner": "wader",
                 "repo": "jq-dash-docset",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
             }
           ],
           "description": null,
@@ -769,11 +815,12 @@
             "archived": false,
             "id": 215404927,
             "language": "Python",
-            "last_commit": "2026-08-26T19:28:00Z",
+            "last_commit": "2026-08-28T20:06:40Z",
             "owner": "kellyjonbrazil",
             "repo": "jc",
-            "stars": 8668
-          }
+            "stars": 8669
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -788,7 +835,8 @@
             "owner": "Florents-Tselai",
             "repo": "pgJQ",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -803,7 +851,8 @@
             "owner": "Florents-Tselai",
             "repo": "liteJQ",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -818,7 +867,8 @@
             "owner": "bashup",
             "repo": "jqmd",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -833,7 +883,8 @@
             "owner": "fadado",
             "repo": "jqt",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -848,7 +899,8 @@
             "owner": "makenowjust",
             "repo": "bf.jq",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -863,7 +915,8 @@
             "owner": "simonw",
             "repo": "datasette-jq",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -878,7 +931,8 @@
             "owner": "fadado",
             "repo": "jtool",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -893,7 +947,8 @@
             "owner": "hosuaby",
             "repo": "jq-voronoi",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -908,7 +963,8 @@
             "owner": "annacrombie",
             "repo": "sc",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         }
       ],
       "title": "Use Cases"
@@ -929,7 +985,8 @@
             "owner": "fadado",
             "repo": "JBOL",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -944,7 +1001,8 @@
             "owner": "jqnpm",
             "repo": "jqnpm",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -959,7 +1017,8 @@
             "owner": "nichtich",
             "repo": "jq-jsonpointer",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -974,7 +1033,8 @@
             "owner": "wader",
             "repo": "json5.jq",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -989,7 +1049,8 @@
             "owner": "nverno",
             "repo": "tree-sitter-jq",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -1004,7 +1065,8 @@
             "owner": "jqnpm",
             "repo": "jq-bigint",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -1019,7 +1081,8 @@
             "owner": "wader",
             "repo": "tar.jq",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         }
       ],
       "title": "Libraries and tools for jq itself"
@@ -1040,7 +1103,8 @@
             "owner": "itchyny",
             "repo": "gojq",
             "stars": 3796
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -1055,7 +1119,8 @@
             "owner": "mwilliamson",
             "repo": "jq.py",
             "stars": 452
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -1070,7 +1135,8 @@
             "owner": "fiatjaf",
             "repo": "jq-web",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -1085,7 +1151,8 @@
             "owner": "sanack",
             "repo": "node-jq",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -1100,7 +1167,8 @@
             "owner": "doloopwhile",
             "repo": "pyjq",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -1115,7 +1183,8 @@
             "owner": "ropensci",
             "repo": "jqr",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -1130,7 +1199,8 @@
             "owner": "arakelian",
             "repo": "java-jq",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -1145,7 +1215,8 @@
             "owner": "kjdev",
             "repo": "php-ext-jq",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -1160,7 +1231,8 @@
             "owner": "moreati",
             "repo": "jq-filter",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -1175,7 +1247,8 @@
             "owner": "threatgrid",
             "repo": "jq-go",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -1190,7 +1263,8 @@
             "owner": "flant",
             "repo": "libjq-go",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -1205,7 +1279,8 @@
             "owner": "dxma",
             "repo": "perl5-json-jq",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         },
         {
           "node_type": "item",
@@ -1220,14 +1295,15 @@
             "owner": "persona-id",
             "repo": "jq-ruby",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:10:42.643Z"
         }
       ],
       "title": "External libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:02:51.294Z",
+    "last_updated": "2026-08-28T20:10:42.643Z",
     "original_repository_info": {
       "archived": false,
       "id": 121669629,
