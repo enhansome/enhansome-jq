@@ -19,7 +19,7 @@
             "open_issues": 473,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35508,
+            "stars": 35518,
             "topics": [
               "jq"
             ]
@@ -171,7 +171,7 @@
                 "open_issues": 327,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82712,
+                "stars": 82731,
                 "topics": [
                   "bash",
                   "cli",
@@ -199,11 +199,11 @@
                 "id": 336895436,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T22:24:48Z",
-                "open_issues": 57,
+                "last_commit": "2026-08-29T15:35:04Z",
+                "open_issues": 58,
                 "owner": "wader",
                 "repo": "fq",
-                "stars": 10583,
+                "stars": 10585,
                 "topics": [
                   "binary",
                   "cli",
@@ -238,7 +238,7 @@
                 "open_issues": 31,
                 "owner": "ynqa",
                 "repo": "jnv",
-                "stars": 6095,
+                "stars": 6099,
                 "topics": [
                   "autocomplete",
                   "cli",
@@ -298,7 +298,7 @@
                 "open_issues": 24,
                 "owner": "noahgorstein",
                 "repo": "jqp",
-                "stars": 2830,
+                "stars": 2832,
                 "topics": [
                   "go",
                   "jq",
@@ -349,7 +349,7 @@
                 "open_issues": 3,
                 "owner": "paololazzari",
                 "repo": "play",
-                "stars": 584,
+                "stars": 585,
                 "topics": [
                   "awk",
                   "cli",
@@ -833,7 +833,7 @@
                 "open_issues": 473,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35508,
+                "stars": 35518,
                 "topics": [
                   "jq"
                 ]
@@ -882,7 +882,7 @@
                 "open_issues": 7,
                 "owner": "wader",
                 "repo": "jq-lsp",
-                "stars": 132,
+                "stars": 133,
                 "topics": [
                   "emacs",
                   "jq",
@@ -961,8 +961,8 @@
                 "id": 363349260,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-12T20:56:04Z",
-                "open_issues": 3,
+                "last_commit": "2026-08-30T10:56:50Z",
+                "open_issues": 4,
                 "owner": "paolosimone",
                 "repo": "virtual-json-viewer",
                 "stars": 83,
@@ -1125,7 +1125,7 @@
                 "open_issues": 473,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35508,
+                "stars": 35518,
                 "topics": [
                   "jq"
                 ]
@@ -1148,7 +1148,7 @@
                 "open_issues": 473,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35508,
+                "stars": 35518,
                 "topics": [
                   "jq"
                 ]
@@ -1171,7 +1171,7 @@
                 "open_issues": 473,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35508,
+                "stars": 35518,
                 "topics": [
                   "jq"
                 ]
@@ -1201,7 +1201,7 @@
                 "open_issues": 473,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35508,
+                "stars": 35518,
                 "topics": [
                   "jq"
                 ]
@@ -2005,7 +2005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:48:30.964Z",
+    "last_updated": "2026-08-30T13:46:48.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jq tools and resources.",
