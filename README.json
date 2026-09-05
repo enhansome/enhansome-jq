@@ -16,10 +16,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T06:30:47Z",
-            "open_issues": 477,
+            "open_issues": 476,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35549,
+            "stars": 35552,
             "topics": [
               "jq"
             ]
@@ -38,8 +38,8 @@
             "id": 180954037,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-04T12:17:39Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-04T13:34:28Z",
+            "open_issues": 17,
             "owner": "itchyny",
             "repo": "gojq",
             "stars": 3796,
@@ -167,11 +167,11 @@
                 "id": 13807606,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-04T02:06:23Z",
-                "open_issues": 329,
+                "last_commit": "2026-09-05T01:07:45Z",
+                "open_issues": 330,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82814,
+                "stars": 82824,
                 "topics": [
                   "bash",
                   "cli",
@@ -203,7 +203,7 @@
                 "open_issues": 61,
                 "owner": "wader",
                 "repo": "fq",
-                "stars": 10587,
+                "stars": 10588,
                 "topics": [
                   "binary",
                   "cli",
@@ -238,7 +238,7 @@
                 "open_issues": 31,
                 "owner": "ynqa",
                 "repo": "jnv",
-                "stars": 6098,
+                "stars": 6099,
                 "topics": [
                   "autocomplete",
                   "cli",
@@ -298,7 +298,7 @@
                 "open_issues": 24,
                 "owner": "noahgorstein",
                 "repo": "jqp",
-                "stars": 2834,
+                "stars": 2835,
                 "topics": [
                   "go",
                   "jq",
@@ -672,6 +672,35 @@
             },
             {
               "node_type": "item",
+              "title": "jqp",
+              "description": "A free serverless proxy for filtering JSON and CSV data using jq.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A serverless proxy for filtering JSON using node-jq",
+                "homepage": "https://jqp.vercel.app",
+                "id": 492332301,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2023-07-19T23:02:43Z",
+                "open_issues": 0,
+                "owner": "sighrobot",
+                "repo": "jqp",
+                "stars": 16,
+                "topics": [
+                  "data",
+                  "jq",
+                  "json",
+                  "nextjs",
+                  "node",
+                  "proxy",
+                  "public"
+                ]
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
+            },
+            {
+              "node_type": "item",
               "title": "jq-finder (github",
               "description": ") – A multipanel, Finder-like, JSON explorer with jq filters instead of paths, uses .",
               "children": [],
@@ -692,35 +721,6 @@
                   "finder",
                   "jq",
                   "json"
-                ]
-              },
-              "first_seen": "2026-08-28T20:10:42.643Z"
-            },
-            {
-              "node_type": "item",
-              "title": "jqp",
-              "description": "A free serverless proxy for filtering JSON and CSV data using jq.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A serverless proxy for filtering JSON using node-jq",
-                "homepage": "https://jqp.vercel.app",
-                "id": 492332301,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2023-07-19T23:02:43Z",
-                "open_issues": 0,
-                "owner": "sighrobot",
-                "repo": "jqp",
-                "stars": 14,
-                "topics": [
-                  "data",
-                  "jq",
-                  "json",
-                  "nextjs",
-                  "node",
-                  "proxy",
-                  "public"
                 ]
               },
               "first_seen": "2026-08-28T20:10:42.643Z"
@@ -830,10 +830,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T06:30:47Z",
-                "open_issues": 477,
+                "open_issues": 476,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35549,
+                "stars": 35552,
                 "topics": [
                   "jq"
                 ]
@@ -965,7 +965,7 @@
                 "open_issues": 3,
                 "owner": "paolosimone",
                 "repo": "virtual-json-viewer",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:42.643Z"
@@ -1122,10 +1122,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T06:30:47Z",
-                "open_issues": 477,
+                "open_issues": 476,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35549,
+                "stars": 35552,
                 "topics": [
                   "jq"
                 ]
@@ -1145,10 +1145,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T06:30:47Z",
-                "open_issues": 477,
+                "open_issues": 476,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35549,
+                "stars": 35552,
                 "topics": [
                   "jq"
                 ]
@@ -1168,10 +1168,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T06:30:47Z",
-                "open_issues": 477,
+                "open_issues": 476,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35549,
+                "stars": 35552,
                 "topics": [
                   "jq"
                 ]
@@ -1198,10 +1198,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T06:30:47Z",
-                "open_issues": 477,
+                "open_issues": 476,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35549,
+                "stars": 35552,
                 "topics": [
                   "jq"
                 ]
@@ -1267,7 +1267,7 @@
             "open_issues": 40,
             "owner": "kellyjonbrazil",
             "repo": "jc",
-            "stars": 8670,
+            "stars": 8671,
             "topics": [
               "bash",
               "bash-scripting",
@@ -1700,8 +1700,8 @@
             "id": 180954037,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-04T12:17:39Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-04T13:34:28Z",
+            "open_issues": 17,
             "owner": "itchyny",
             "repo": "gojq",
             "stars": 3796,
@@ -2005,7 +2005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:41:27.249Z",
+    "last_updated": "2026-09-05T11:48:34.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jq tools and resources.",
@@ -2017,7 +2017,7 @@
       "open_issues": 5,
       "owner": "jqlang",
       "repo": "awesome-jq",
-      "stars": 976,
+      "stars": 977,
       "topics": [
         "awesome",
         "jq"
