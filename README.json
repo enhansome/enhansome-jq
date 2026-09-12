@@ -19,7 +19,7 @@
             "open_issues": 480,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35580,
+            "stars": 35588,
             "topics": [
               "jq"
             ]
@@ -167,11 +167,11 @@
                 "id": 13807606,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-11T12:46:20Z",
+                "last_commit": "2026-09-12T00:35:44Z",
                 "open_issues": 328,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82907,
+                "stars": 82929,
                 "topics": [
                   "bash",
                   "cli",
@@ -203,7 +203,7 @@
                 "open_issues": 57,
                 "owner": "wader",
                 "repo": "fq",
-                "stars": 10596,
+                "stars": 10595,
                 "topics": [
                   "binary",
                   "cli",
@@ -238,7 +238,7 @@
                 "open_issues": 31,
                 "owner": "ynqa",
                 "repo": "jnv",
-                "stars": 6102,
+                "stars": 6104,
                 "topics": [
                   "autocomplete",
                   "cli",
@@ -298,7 +298,7 @@
                 "open_issues": 24,
                 "owner": "noahgorstein",
                 "repo": "jqp",
-                "stars": 2838,
+                "stars": 2839,
                 "topics": [
                   "go",
                   "jq",
@@ -833,7 +833,7 @@
                 "open_issues": 480,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35580,
+                "stars": 35588,
                 "topics": [
                   "jq"
                 ]
@@ -982,7 +982,7 @@
                 "id": 107561465,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T23:02:31Z",
+                "last_commit": "2026-09-11T22:04:23Z",
                 "open_issues": 13,
                 "owner": "davidnussio",
                 "repo": "vscode-jq-playground",
@@ -1125,7 +1125,7 @@
                 "open_issues": 480,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35580,
+                "stars": 35588,
                 "topics": [
                   "jq"
                 ]
@@ -1148,7 +1148,7 @@
                 "open_issues": 480,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35580,
+                "stars": 35588,
                 "topics": [
                   "jq"
                 ]
@@ -1171,7 +1171,7 @@
                 "open_issues": 480,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35580,
+                "stars": 35588,
                 "topics": [
                   "jq"
                 ]
@@ -1201,7 +1201,7 @@
                 "open_issues": 480,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35580,
+                "stars": 35588,
                 "topics": [
                   "jq"
                 ]
@@ -2005,7 +2005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:47:37.515Z",
+    "last_updated": "2026-09-12T12:08:07.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jq tools and resources.",
