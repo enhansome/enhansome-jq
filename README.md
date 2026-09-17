@@ -28,7 +28,7 @@ A curated list of awesome things built with the JSON processor and
 
 *Standalone implementations of the jq language.*
 
-* [jq](https://jqlang.github.io/jq/) ([github](https://github.com/jqlang/jq) ⭐ 35,607 | 🐛 479 | 🌐 C | 📅 2026-09-15) – The original jq command-line JSON processor.
+* [jq](https://jqlang.github.io/jq/) ([github](https://github.com/jqlang/jq) ⭐ 35,614 | 🐛 480 | 🌐 C | 📅 2026-09-15) – The original jq command-line JSON processor.
 * [gojq](https://github.com/itchyny/gojq) ⭐ 3,804 | 🐛 19 | 🌐 Go | 📅 2026-09-14 – A jq implementation in Go.
 * [jqjq](https://github.com/wader/jqjq) ⭐ 771 | 🐛 6 | 🌐 jq | 📅 2026-08-02 – jq implementation of jq
 * [query-json (`q`)](https://github.com/davesnx/query-json) ⭐ 636 | 🐛 2 | 🌐 OCaml | 📅 2026-09-03 – query-json is a faster, simpler and more portable implementation of the jq language in Reason.
@@ -42,13 +42,13 @@ A curated list of awesome things built with the JSON processor and
 
 ### Command-line
 
-* `echo '' | fzf --print-query --preview "cat *.json | jq {q}"` – An [fzf](https://github.com/junegunn/fzf) ⭐ 83,005 | 🐛 328 | 🌐 Go | 📅 2026-09-14 hack that turns it into an interactive jq explorer.
-* [fq](https://github.com/wader/fq) ⭐ 10,597 | 🐛 58 | 🌐 Go | 📅 2026-09-15 – jq for binary formats
-* [jnv](https://github.com/ynqa/jnv) ⭐ 6,110 | 🐛 31 | 🌐 Rust | 📅 2026-09-14 – interactive JSON filter using jq with navigation and autocompletion.
-* [yq](https://github.com/kislyuk/yq) ⭐ 2,976 | 🐛 23 | 🌐 Python | 📅 2026-07-11 (and `xq`) – jq wrapper for YAML and XML documents.
-* [jqp](https://github.com/noahgorstein/jqp) ⭐ 2,839 | 🐛 24 | 🌐 Go | 📅 2026-02-06 – a TUI playground for exploring jq.
+* `echo '' | fzf --print-query --preview "cat *.json | jq {q}"` – An [fzf](https://github.com/junegunn/fzf) ⭐ 83,065 | 🐛 328 | 🌐 Go | 📅 2026-09-14 hack that turns it into an interactive jq explorer.
+* [fq](https://github.com/wader/fq) ⭐ 10,598 | 🐛 58 | 🌐 Go | 📅 2026-09-15 – jq for binary formats
+* [jnv](https://github.com/ynqa/jnv) ⭐ 6,113 | 🐛 32 | 🌐 Rust | 📅 2026-09-17 – interactive JSON filter using jq with navigation and autocompletion.
+* [yq](https://github.com/kislyuk/yq) ⭐ 2,979 | 🐛 23 | 🌐 Python | 📅 2026-07-11 (and `xq`) – jq wrapper for YAML and XML documents.
+* [jqp](https://github.com/noahgorstein/jqp) ⭐ 2,842 | 🐛 24 | 🌐 Go | 📅 2026-02-06 – a TUI playground for exploring jq.
 * [jiq](https://github.com/fiatjaf/jiq) ⚠️ Archived – A visual command-line interactive JSON explorer with jq filters.
-* [play](https://github.com/paololazzari/play) ⭐ 587 | 🐛 3 | 🌐 Go | 📅 2025-03-28 – A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq.
+* [play](https://github.com/paololazzari/play) ⭐ 588 | 🐛 3 | 🌐 Go | 📅 2025-03-28 – A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq.
 * [faq](https://github.com/jzelinskie/faq) ⭐ 464 | 🐛 20 | 🌐 Go | 📅 2024-10-02 – CLI program that processes BSON, Bencode, JSON, TOML, XML, YAML using **libjq**.
 * [jqfmt](https://github.com/noperator/jqfmt) ⭐ 410 | 🐛 8 | 🌐 Go | 📅 2026-02-03 – A code beautifier for jq.
 * [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) ⭐ 362 | 🐛 2 | 🌐 Shell | 📅 2025-07-23 – zsh line editor for constructing jq queries interactively.
@@ -78,7 +78,7 @@ A curated list of awesome things built with the JSON processor and
 
 ### Extensions
 
-* [bat syntax highlighting](https://github.com/jqlang/jq/wiki/bat-language-syntax) ⭐ 35,607 | 🐛 479 | 🌐 C | 📅 2026-09-15 – Syntax file to use bat to syntax highlight jq files
+* [bat syntax highlighting](https://github.com/jqlang/jq/wiki/bat-language-syntax) ⭐ 35,614 | 🐛 480 | 🌐 C | 📅 2026-09-15 – Syntax file to use bat to syntax highlight jq files
 * [jq-mode](https://github.com/ljos/jq-mode) ⭐ 134 | 🐛 9 | 🌐 Emacs Lisp | 📅 2026-08-21 – A jq mode for Emacs.
 * [jq-lsp](https://github.com/wader/jq-lsp) ⭐ 133 | 🐛 7 | 🌐 jq | 📅 2026-08-03 – jq language server. Works with VSCode, neovim and Emacs. Has syntax and scope checking, goto defintion, completion and hover documentation.
 * [vim-jqplay](https://github.com/bfrg/vim-jqplay) ⭐ 124 | 🐛 2 | 🌐 Vim Script | 📅 2024-03-05 – Interactive jq playground inside Vim.
@@ -98,9 +98,9 @@ A curated list of awesome things built with the JSON processor and
 
 ### Core documentation
 
-* [FAQ](https://github.com/jqlang/jq/wiki/FAQ) ⭐ 35,607 | 🐛 479 | 🌐 C | 📅 2026-09-15 – jq FAQ.
-* [Cookbook](https://github.com/jqlang/jq/wiki/Cookbook) ⭐ 35,607 | 🐛 479 | 🌐 C | 📅 2026-09-15 – jq cookbook.
-* [Advanced Topics](https://github.com/jqlang/jq/wiki/Advanced-Topics) ⭐ 35,607 | 🐛 479 | 🌐 C | 📅 2026-09-15 – jq advanced topics.
+* [FAQ](https://github.com/jqlang/jq/wiki/FAQ) ⭐ 35,614 | 🐛 480 | 🌐 C | 📅 2026-09-15 – jq FAQ.
+* [Cookbook](https://github.com/jqlang/jq/wiki/Cookbook) ⭐ 35,614 | 🐛 480 | 🌐 C | 📅 2026-09-15 – jq cookbook.
+* [Advanced Topics](https://github.com/jqlang/jq/wiki/Advanced-Topics) ⭐ 35,614 | 🐛 480 | 🌐 C | 📅 2026-09-15 – jq advanced topics.
 * [Manual](https://jqlang.github.io/jq/manual/) – jq manual (development version).
 
 ### Good small specific tutorials
@@ -115,7 +115,7 @@ A curated list of awesome things built with the JSON processor and
 
 ### Code examples
 
-* [Builtins](https://github.com/jqlang/jq/blob/master/src/builtin.jq) ⭐ 35,607 | 🐛 479 | 🌐 C | 📅 2026-09-15 – jq builtins coded in *jq* itself, not C.
+* [Builtins](https://github.com/jqlang/jq/blob/master/src/builtin.jq) ⭐ 35,614 | 🐛 480 | 🌐 C | 📅 2026-09-15 – jq builtins coded in *jq* itself, not C.
 * [jq at Rosetta Code](http://rosettacode.org/wiki/Category:Jq) – Dozens of algorithms written in jq .
 * [Collection of jq recipes](https://remysharp.com/drafts/jq-recipes)
 * [Collection of interactive jq examples](https://ishan.page/blog/2023-11-06-jq-by-example/) – Dozens of interactive jq examples (and explanations) in the browser.
@@ -129,7 +129,7 @@ A curated list of awesome things built with the JSON processor and
 
 *Apps using jq in the wild*.
 
-* [jc](https://github.com/kellyjonbrazil/jc) ⭐ 8,678 | 🐛 43 | 🌐 Python | 📅 2026-09-16 – CLI tool that converts the output of popular command-line programs and filetypes to JSON so they can be piped to jq.
+* [jc](https://github.com/kellyjonbrazil/jc) ⭐ 8,678 | 🐛 44 | 🌐 Python | 📅 2026-09-17 – CLI tool that converts the output of popular command-line programs and filetypes to JSON so they can be piped to jq.
 * [pgJQ](https://github.com/Florents-Tselai/pgJQ) ⭐ 205 | 🐛 4 | 🌐 C | 📅 2024-12-09 – jq Postgres extension.
 * [liteJQ](https://github.com/Florents-Tselai/liteJQ) ⭐ 106 | 🐛 4 | 🌐 C | 📅 2024-07-08 – jq SQLite extension.
 * [jqmd](https://github.com/bashup/jqmd) ⭐ 51 | 🐛 0 | 🌐 Shell | 📅 2021-06-27 – A "literate devops" tool that allows embedding jq code, shell scripts, YAML, and JSON in a markdown document and making it executable. (A bit like R markdown or IPython notebooks, except with shell/jq/YAML/JSON, and as a CLI scripting tool rather than a GUI.)
@@ -190,4 +190,4 @@ just open an issue).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
