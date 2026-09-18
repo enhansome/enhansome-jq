@@ -15,11 +15,11 @@
             "id": 5101141,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T09:13:25Z",
-            "open_issues": 480,
+            "last_commit": "2026-09-18T11:12:35Z",
+            "open_issues": 472,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35614,
+            "stars": 35617,
             "topics": [
               "jq"
             ]
@@ -38,8 +38,8 @@
             "id": 180954037,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-14T05:29:33Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-18T12:42:47Z",
+            "open_issues": 18,
             "owner": "itchyny",
             "repo": "gojq",
             "stars": 3804,
@@ -168,10 +168,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-14T03:16:23Z",
-                "open_issues": 328,
+                "open_issues": 329,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 83065,
+                "stars": 83101,
                 "topics": [
                   "bash",
                   "cli",
@@ -203,7 +203,7 @@
                 "open_issues": 58,
                 "owner": "wader",
                 "repo": "fq",
-                "stars": 10598,
+                "stars": 10596,
                 "topics": [
                   "binary",
                   "cli",
@@ -238,7 +238,7 @@
                 "open_issues": 32,
                 "owner": "ynqa",
                 "repo": "jnv",
-                "stars": 6113,
+                "stars": 6114,
                 "topics": [
                   "autocomplete",
                   "cli",
@@ -269,7 +269,7 @@
                 "open_issues": 23,
                 "owner": "kislyuk",
                 "repo": "yq",
-                "stars": 2979,
+                "stars": 2980,
                 "topics": [
                   "cli",
                   "command-line",
@@ -298,7 +298,7 @@
                 "open_issues": 24,
                 "owner": "noahgorstein",
                 "repo": "jqp",
-                "stars": 2842,
+                "stars": 2843,
                 "topics": [
                   "go",
                   "jq",
@@ -349,7 +349,7 @@
                 "open_issues": 3,
                 "owner": "paololazzari",
                 "repo": "play",
-                "stars": 588,
+                "stars": 589,
                 "topics": [
                   "awk",
                   "cli",
@@ -829,11 +829,11 @@
                 "id": 5101141,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T09:13:25Z",
-                "open_issues": 480,
+                "last_commit": "2026-09-18T11:12:35Z",
+                "open_issues": 472,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35614,
+                "stars": 35617,
                 "topics": [
                   "jq"
                 ]
@@ -909,7 +909,7 @@
                 "open_issues": 2,
                 "owner": "bfrg",
                 "repo": "vim-jqplay",
-                "stars": 124,
+                "stars": 125,
                 "topics": [
                   "jq",
                   "vim",
@@ -917,6 +917,27 @@
                   "vim-plugin",
                   "vim9script"
                 ]
+              },
+              "first_seen": "2026-08-28T20:10:42.643Z"
+            },
+            {
+              "node_type": "item",
+              "title": "virtual-json-viewer",
+              "description": "A JSON Chrome/Firefox Extension with virtual DOM, full-text search and jq filtering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "JSON browser extension with virtual DOM, search and JQ filtering",
+                "homepage": null,
+                "id": 363349260,
+                "language": "TypeScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-30T16:07:59Z",
+                "open_issues": 3,
+                "owner": "paolosimone",
+                "repo": "virtual-json-viewer",
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:42.643Z"
             },
@@ -946,27 +967,6 @@
                   "json-format",
                   "utilities"
                 ]
-              },
-              "first_seen": "2026-08-28T20:10:42.643Z"
-            },
-            {
-              "node_type": "item",
-              "title": "virtual-json-viewer",
-              "description": "A JSON Chrome/Firefox Extension with virtual DOM, full-text search and jq filtering.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "JSON browser extension with virtual DOM, search and JQ filtering",
-                "homepage": null,
-                "id": 363349260,
-                "language": "TypeScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-30T16:07:59Z",
-                "open_issues": 3,
-                "owner": "paolosimone",
-                "repo": "virtual-json-viewer",
-                "stars": 84,
-                "topics": []
               },
               "first_seen": "2026-08-28T20:10:42.643Z"
             },
@@ -1121,11 +1121,11 @@
                 "id": 5101141,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T09:13:25Z",
-                "open_issues": 480,
+                "last_commit": "2026-09-18T11:12:35Z",
+                "open_issues": 472,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35614,
+                "stars": 35617,
                 "topics": [
                   "jq"
                 ]
@@ -1144,11 +1144,11 @@
                 "id": 5101141,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T09:13:25Z",
-                "open_issues": 480,
+                "last_commit": "2026-09-18T11:12:35Z",
+                "open_issues": 472,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35614,
+                "stars": 35617,
                 "topics": [
                   "jq"
                 ]
@@ -1167,11 +1167,11 @@
                 "id": 5101141,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T09:13:25Z",
-                "open_issues": 480,
+                "last_commit": "2026-09-18T11:12:35Z",
+                "open_issues": 472,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35614,
+                "stars": 35617,
                 "topics": [
                   "jq"
                 ]
@@ -1197,11 +1197,11 @@
                 "id": 5101141,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T09:13:25Z",
-                "open_issues": 480,
+                "last_commit": "2026-09-18T11:12:35Z",
+                "open_issues": 472,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35614,
+                "stars": 35617,
                 "topics": [
                   "jq"
                 ]
@@ -1264,10 +1264,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-17T00:01:42Z",
-            "open_issues": 44,
+            "open_issues": 47,
             "owner": "kellyjonbrazil",
             "repo": "jc",
-            "stars": 8678,
+            "stars": 8677,
             "topics": [
               "bash",
               "bash-scripting",
@@ -1700,8 +1700,8 @@
             "id": 180954037,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-14T05:29:33Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-18T12:42:47Z",
+            "open_issues": 18,
             "owner": "itchyny",
             "repo": "gojq",
             "stars": 3804,
@@ -1727,8 +1727,8 @@
             "id": 10775034,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-07-10T17:53:18Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-18T12:24:14Z",
+            "open_issues": 28,
             "owner": "mwilliamson",
             "repo": "jq.py",
             "stars": 454,
@@ -2005,7 +2005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T13:23:13.171Z",
+    "last_updated": "2026-09-18T12:55:51.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jq tools and resources.",
