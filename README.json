@@ -19,7 +19,7 @@
             "open_issues": 450,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35663,
+            "stars": 35672,
             "topics": [
               "jq"
             ]
@@ -38,11 +38,11 @@
             "id": 180954037,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-19T06:49:32Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-23T04:33:59Z",
+            "open_issues": 16,
             "owner": "itchyny",
             "repo": "gojq",
-            "stars": 3806,
+            "stars": 3807,
             "topics": [
               "cli-tool",
               "cli-utility",
@@ -119,7 +119,7 @@
             "open_issues": 14,
             "owner": "MiSawa",
             "repo": "xq",
-            "stars": 402,
+            "stars": 403,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:42.643Z"
@@ -171,7 +171,7 @@
                 "open_issues": 330,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 83192,
+                "stars": 83212,
                 "topics": [
                   "bash",
                   "cli",
@@ -203,7 +203,7 @@
                 "open_issues": 58,
                 "owner": "wader",
                 "repo": "fq",
-                "stars": 10596,
+                "stars": 10597,
                 "topics": [
                   "binary",
                   "cli",
@@ -235,10 +235,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-17T02:40:15Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "ynqa",
                 "repo": "jnv",
-                "stars": 6117,
+                "stars": 6116,
                 "topics": [
                   "autocomplete",
                   "cli",
@@ -298,7 +298,7 @@
                 "open_issues": 24,
                 "owner": "noahgorstein",
                 "repo": "jqp",
-                "stars": 2843,
+                "stars": 2844,
                 "topics": [
                   "go",
                   "jq",
@@ -833,7 +833,7 @@
                 "open_issues": 450,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35663,
+                "stars": 35672,
                 "topics": [
                   "jq"
                 ]
@@ -1125,7 +1125,7 @@
                 "open_issues": 450,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35663,
+                "stars": 35672,
                 "topics": [
                   "jq"
                 ]
@@ -1148,7 +1148,7 @@
                 "open_issues": 450,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35663,
+                "stars": 35672,
                 "topics": [
                   "jq"
                 ]
@@ -1171,7 +1171,7 @@
                 "open_issues": 450,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35663,
+                "stars": 35672,
                 "topics": [
                   "jq"
                 ]
@@ -1201,7 +1201,7 @@
                 "open_issues": 450,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35663,
+                "stars": 35672,
                 "topics": [
                   "jq"
                 ]
@@ -1263,11 +1263,11 @@
             "id": 215404927,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-19T22:50:57Z",
+            "last_commit": "2026-09-22T14:31:13Z",
             "open_issues": 32,
             "owner": "kellyjonbrazil",
             "repo": "jc",
-            "stars": 8682,
+            "stars": 8685,
             "topics": [
               "bash",
               "bash-scripting",
@@ -1700,11 +1700,11 @@
             "id": 180954037,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-19T06:49:32Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-23T04:33:59Z",
+            "open_issues": 16,
             "owner": "itchyny",
             "repo": "gojq",
-            "stars": 3806,
+            "stars": 3807,
             "topics": [
               "cli-tool",
               "cli-utility",
@@ -2005,7 +2005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T13:21:58.662Z",
+    "last_updated": "2026-09-23T13:35:38.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jq tools and resources.",
@@ -2014,10 +2014,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-17T09:15:04Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "jqlang",
       "repo": "awesome-jq",
-      "stars": 981,
+      "stars": 983,
       "topics": [
         "awesome",
         "jq"
