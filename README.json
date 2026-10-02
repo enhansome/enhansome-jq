@@ -19,7 +19,7 @@
             "open_issues": 429,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35734,
+            "stars": 35735,
             "topics": [
               "jq"
             ]
@@ -39,7 +39,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-27T04:22:21Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "itchyny",
             "repo": "gojq",
             "stars": 3808,
@@ -167,11 +167,11 @@
                 "id": 13807606,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-30T12:31:30Z",
+                "last_commit": "2026-10-02T13:18:24Z",
                 "open_issues": 332,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 83342,
+                "stars": 83357,
                 "topics": [
                   "bash",
                   "cli",
@@ -203,7 +203,7 @@
                 "open_issues": 61,
                 "owner": "wader",
                 "repo": "fq",
-                "stars": 10601,
+                "stars": 10603,
                 "topics": [
                   "binary",
                   "cli",
@@ -833,7 +833,7 @@
                 "open_issues": 429,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35734,
+                "stars": 35735,
                 "topics": [
                   "jq"
                 ]
@@ -1125,7 +1125,7 @@
                 "open_issues": 429,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35734,
+                "stars": 35735,
                 "topics": [
                   "jq"
                 ]
@@ -1148,7 +1148,7 @@
                 "open_issues": 429,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35734,
+                "stars": 35735,
                 "topics": [
                   "jq"
                 ]
@@ -1171,7 +1171,7 @@
                 "open_issues": 429,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35734,
+                "stars": 35735,
                 "topics": [
                   "jq"
                 ]
@@ -1201,7 +1201,7 @@
                 "open_issues": 429,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35734,
+                "stars": 35735,
                 "topics": [
                   "jq"
                 ]
@@ -1267,7 +1267,7 @@
             "open_issues": 35,
             "owner": "kellyjonbrazil",
             "repo": "jc",
-            "stars": 8690,
+            "stars": 8691,
             "topics": [
               "bash",
               "bash-scripting",
@@ -1701,7 +1701,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-27T04:22:21Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "itchyny",
             "repo": "gojq",
             "stars": 3808,
@@ -2005,7 +2005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T15:24:02.618Z",
+    "last_updated": "2026-10-02T14:41:56.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jq tools and resources.",
