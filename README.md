@@ -42,9 +42,9 @@ A curated list of awesome things built with the JSON processor and
 
 ### Command-line
 
-* `echo '' | fzf --print-query --preview "cat *.json | jq {q}"` – An [fzf](https://github.com/junegunn/fzf) ⭐ 83,355 | 🐛 332 | 🌐 Go | 📅 2026-10-02 hack that turns it into an interactive jq explorer.
-* [fq](https://github.com/wader/fq) ⭐ 10,604 | 🐛 58 | 🌐 Go | 📅 2026-10-02 – jq for binary formats
-* [jnv](https://github.com/ynqa/jnv) ⭐ 6,122 | 🐛 32 | 🌐 Rust | 📅 2026-09-24 – interactive JSON filter using jq with navigation and autocompletion.
+* `echo '' | fzf --print-query --preview "cat *.json | jq {q}"` – An [fzf](https://github.com/junegunn/fzf) ⭐ 83,359 | 🐛 333 | 🌐 Go | 📅 2026-10-03 hack that turns it into an interactive jq explorer.
+* [fq](https://github.com/wader/fq) ⭐ 10,605 | 🐛 58 | 🌐 Go | 📅 2026-10-02 – jq for binary formats
+* [jnv](https://github.com/ynqa/jnv) ⭐ 6,123 | 🐛 32 | 🌐 Rust | 📅 2026-09-24 – interactive JSON filter using jq with navigation and autocompletion.
 * [yq](https://github.com/kislyuk/yq) ⭐ 2,986 | 🐛 22 | 🌐 Python | 📅 2026-09-27 (and `xq`) – jq wrapper for YAML and XML documents.
 * [jqp](https://github.com/noahgorstein/jqp) ⭐ 2,845 | 🐛 24 | 🌐 Go | 📅 2026-02-06 – a TUI playground for exploring jq.
 * [jiq](https://github.com/fiatjaf/jiq) ⚠️ Archived – A visual command-line interactive JSON explorer with jq filters.
