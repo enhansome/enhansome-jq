@@ -39,7 +39,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-05T14:39:51Z",
-            "open_issues": 17,
+            "open_issues": 16,
             "owner": "itchyny",
             "repo": "gojq",
             "stars": 3808,
@@ -171,7 +171,7 @@
                 "open_issues": 333,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 83400,
+                "stars": 83399,
                 "topics": [
                   "bash",
                   "cli",
@@ -199,8 +199,8 @@
                 "id": 336895436,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T17:22:06Z",
-                "open_issues": 60,
+                "last_commit": "2026-10-06T13:19:16Z",
+                "open_issues": 59,
                 "owner": "wader",
                 "repo": "fq",
                 "stars": 10607,
@@ -238,7 +238,7 @@
                 "open_issues": 32,
                 "owner": "ynqa",
                 "repo": "jnv",
-                "stars": 6124,
+                "stars": 6125,
                 "topics": [
                   "autocomplete",
                   "cli",
@@ -882,7 +882,7 @@
                 "open_issues": 6,
                 "owner": "wader",
                 "repo": "jq-lsp",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "emacs",
                   "jq",
@@ -932,7 +932,7 @@
                 "id": 363349260,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T10:48:40Z",
+                "last_commit": "2026-10-06T10:50:28Z",
                 "open_issues": 2,
                 "owner": "paolosimone",
                 "repo": "virtual-json-viewer",
@@ -1701,7 +1701,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-05T14:39:51Z",
-            "open_issues": 17,
+            "open_issues": 16,
             "owner": "itchyny",
             "repo": "gojq",
             "stars": 3808,
@@ -2005,7 +2005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:49:50.399Z",
+    "last_updated": "2026-10-06T15:03:56.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jq tools and resources.",
