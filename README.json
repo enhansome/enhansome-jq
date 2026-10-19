@@ -16,10 +16,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-16T12:50:47Z",
-            "open_issues": 427,
+            "open_issues": 429,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35843,
+            "stars": 35865,
             "topics": [
               "jq"
             ]
@@ -38,11 +38,11 @@
             "id": 180954037,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-18T12:00:35Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-18T12:44:55Z",
+            "open_issues": 19,
             "owner": "itchyny",
             "repo": "gojq",
-            "stars": 3814,
+            "stars": 3815,
             "topics": [
               "cli-tool",
               "cli-utility",
@@ -168,10 +168,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-17T02:11:02Z",
-                "open_issues": 334,
+                "open_issues": 333,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 83629,
+                "stars": 83668,
                 "topics": [
                   "bash",
                   "cli",
@@ -203,7 +203,7 @@
                 "open_issues": 62,
                 "owner": "wader",
                 "repo": "fq",
-                "stars": 10614,
+                "stars": 10615,
                 "topics": [
                   "binary",
                   "cli",
@@ -269,7 +269,7 @@
                 "open_issues": 20,
                 "owner": "kislyuk",
                 "repo": "yq",
-                "stars": 2994,
+                "stars": 2993,
                 "topics": [
                   "cli",
                   "command-line",
@@ -610,7 +610,7 @@
                 "open_issues": 31,
                 "owner": "jqlang",
                 "repo": "playground",
-                "stars": 851,
+                "stars": 853,
                 "topics": [
                   "jq",
                   "nextjs",
@@ -830,10 +830,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-16T12:50:47Z",
-                "open_issues": 427,
+                "open_issues": 429,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35843,
+                "stars": 35865,
                 "topics": [
                   "jq"
                 ]
@@ -1122,10 +1122,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-16T12:50:47Z",
-                "open_issues": 427,
+                "open_issues": 429,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35843,
+                "stars": 35865,
                 "topics": [
                   "jq"
                 ]
@@ -1145,10 +1145,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-16T12:50:47Z",
-                "open_issues": 427,
+                "open_issues": 429,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35843,
+                "stars": 35865,
                 "topics": [
                   "jq"
                 ]
@@ -1168,10 +1168,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-16T12:50:47Z",
-                "open_issues": 427,
+                "open_issues": 429,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35843,
+                "stars": 35865,
                 "topics": [
                   "jq"
                 ]
@@ -1198,10 +1198,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-16T12:50:47Z",
-                "open_issues": 427,
+                "open_issues": 429,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35843,
+                "stars": 35865,
                 "topics": [
                   "jq"
                 ]
@@ -1263,8 +1263,8 @@
             "id": 215404927,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T23:55:49Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-18T20:42:02Z",
+            "open_issues": 25,
             "owner": "kellyjonbrazil",
             "repo": "jc",
             "stars": 8694,
@@ -1700,11 +1700,11 @@
             "id": 180954037,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-18T12:00:35Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-18T12:44:55Z",
+            "open_issues": 19,
             "owner": "itchyny",
             "repo": "gojq",
-            "stars": 3814,
+            "stars": 3815,
             "topics": [
               "cli-tool",
               "cli-utility",
@@ -2005,7 +2005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:34:38.063Z",
+    "last_updated": "2026-10-19T15:32:09.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jq tools and resources.",
